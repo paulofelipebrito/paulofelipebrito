@@ -24,7 +24,7 @@
   <div>
     <ul>
       <li>📘 I graduated in mechanical engineering at University Federal of Pernambuco.
-      <li>🇧🇷 I'm from Recife, Pernambuco, Brasil;</li>
+      <li>🇧🇷 I'm from Recife, Pernambuco, Brazil;</li>
       <li>🎲 Since I was a child, I have been passionate about the world of technology and its challenges;</li>
       <li>👩🏻 I am a person who is always in constant evolution, both personally and professionally;</li>
       <li>👨‍💻 I like to learn, meet people and go through different types of challenges. It encourages me to step out of my comfort zone;</li>
