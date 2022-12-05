@@ -1,9 +1,9 @@
 <div>
   <div> 
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://i.gifer.com/3q63.gif">
-      <source media="(prefers-color-scheme: light)" srcset="https://i.gifer.com/3q63.gif">
-      <img align="right" alt="GIF" src=""  width="80" height="100"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/WRddbNQSdgfszBn0x9/giphy.gif">
+      <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/WRddbNQSdgfszBn0x9/giphy.gif">
+      <img align="right" alt="GIF" src=""  width="100" height="120"/>
     </picture>  
   </div>
   <div>
@@ -24,7 +24,7 @@
   <div>
     <ul>
       <li>📘 I graduated in mechanical engineering at University Federal of Pernambuco.
-      <li>🇧🇷 I'm from Recife, Pernambuco, Brazil;</li>
+      <li>🇧🇷 I'm from Recife, Pernambuco, Brasil;</li>
       <li>🎲 Since I was a child, I have been passionate about the world of technology and its challenges;</li>
       <li>👩🏻 I am a person who is always in constant evolution, both personally and professionally;</li>
       <li>👨‍💻 I like to learn, meet people and go through different types of challenges. It encourages me to step out of my comfort zone;</li>
