@@ -49,8 +49,8 @@
 <div>
   <div align="center">
     <a href="https://github.com/paulofelipebrito">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulofelipebrito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=36bcf7&title_color=36bcf7&bg_color=1A1D21"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofelipebrito&show_icons=true&theme=dracula&title_color=36bcf7&bg_color=1A1D21&layout=compact&langs_count=7"/>
+      <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulofelipebrito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=36bcf7&title_color=36bcf7&bg_color=1A1D21"/>
+    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulofelipebrito&show_icons=true&theme=dracula&title_color=36bcf7&bg_color=1A1D21&layout=compact&langs_count=7"/>
     </a>
   </div>
 </div>
